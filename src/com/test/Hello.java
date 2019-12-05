@@ -8,6 +8,7 @@ public class Hello {
 		// TODO Auto-generated method stub
 		System.out.println("ggggggg");
 		UUID.randomUUID();
+		System.out.println("hhhhhhhhh");
 		System.out.println("aaaaaaaaaaaa");
 	}
 
